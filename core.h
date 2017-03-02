@@ -22,7 +22,7 @@
 
 #elif defined(__PIC32MX__)
     #warning "Compiling for Microchip C32 (Arduino)"
-    #include <plib.h>
+    //#include <plib.h>
 
 #else
     #warning "Compiling for unknown compiler"
